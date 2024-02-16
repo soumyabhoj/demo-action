@@ -8,6 +8,7 @@ class DemoActionsApplicationTests {
 
 	@Test
 	void contextLoads() {
+		System.out.println("soumya");
 	}
 
 }
